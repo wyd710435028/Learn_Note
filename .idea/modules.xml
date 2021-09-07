@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_Annotation/JavaSE_Annotation.iml" filepath="$PROJECT_DIR$/JavaSE_Annotation/JavaSE_Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_Genericity/JavaSE_Genericity.iml" filepath="$PROJECT_DIR$/JavaSE_Genericity/JavaSE_Genericity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_SJMS/JavaSE_SJMS.iml" filepath="$PROJECT_DIR$/JavaSE_SJMS/JavaSE_SJMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE_Study.iml" filepath="$PROJECT_DIR$/JavaSE_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilTest/UtilTest.iml" filepath="$PROJECT_DIR$/UtilTest/UtilTest.iml" />
+    </modules>
+  </component>
+</project>
